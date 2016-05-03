@@ -1,8 +1,9 @@
-resttest  
+#django restframework test  
 
-*djangorestframeworkのテスト
-*virtualenv(gitdir内にいれてしまう。分けたほうがいい）
-*pipでdjango,rest,filterを入れる
+1.djangorestframeworkのテスト  
+2.virtualenv(gitdir内にいれてしまう。分けたほうがいい）  
+3.pipでdjango,rest,filterを入れる  
+
     pip install django
     pip install djangorestframework
     pip install django-filter 
