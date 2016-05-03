@@ -15,5 +15,6 @@ markdownのメモがプレビューしながら作成できる
 まずはcommitのテスト
 そして、mergeのテスト
 softreset
+さらに変更してみた
   
 
