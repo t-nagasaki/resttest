@@ -12,4 +12,8 @@ https:wri.peでgithubアカウントで,
 markdownのメモがプレビューしながら作成できる
 
 ちょっとbranchのテスト
+まずはcommitのテスト
+そして、mergeのテスト
+softreset
   
+
