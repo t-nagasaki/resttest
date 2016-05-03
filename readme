@@ -1,0 +1,19 @@
+django restの勉強
+
+Ubuntu16.04
+virtualenv使う。
+
+virtualenv 15.0.1
+virtualenv15.0.0
+
+sudo pip install virtualenv
+
+pipをupgrade。
+sudo pip install -U pip
+
+
+
+
+
+$ source resttest/bin/activate
+
