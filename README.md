@@ -1,4 +1,4 @@
-resttest  
+#django restframework test  
 
 *djangorestframeworkのテスト
 *virtualenv(gitdir内にいれてしまう。分けたほうがいい）
