@@ -8,4 +8,6 @@
     pip install djangorestframework
     pip install django-filter 
 
+https:wri.peでgithubアカウントで,
+markdownのメモがプレビューしながら作成できる
   
