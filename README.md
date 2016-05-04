@@ -16,5 +16,6 @@ markdownのメモがプレビューしながら作成できる
 そして、mergeのテスト
 softreset
 さらに変更してみた
-  
+
+git branch -f をgitkrakenでどうやるか。
 
