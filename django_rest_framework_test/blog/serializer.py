@@ -10,7 +10,7 @@ from .models import User, Entry
 
 class UserSerializer(serializers.ModelSerializer):
     '''
-    User serializer
+    User serializer simply
     '''
     class Meta:
         model = User
@@ -18,6 +18,9 @@ class UserSerializer(serializers.ModelSerializer):
 
 
 class EntrySerializer(serializers.ModelSerializer):
+    '''
+    Entry serializer simply
+    '''
     # author = UserSerializer(read_only=True)
     # author = UserSerializer(many=True)
     # title = serializers.CharField(max_length=128)
@@ -28,6 +31,9 @@ class EntrySerializer(serializers.ModelSerializer):
     #    for item in validated_data['entries']:
 
     class Meta:
+        '''
+        User serializer
+        '''
         model = Entry
         fields = ('title', 'body', 'created_at', 'status', 'author')
 
@@ -39,6 +45,9 @@ class UserEntriesSerializer(serializers.ModelSerializer):
     entries = EntrySerializer(many=True)
 
     class Meta:
+        '''
+        User serializer
+        '''
         model = User
         fields = ('id', 'name', 'mail', 'entries')
 
