@@ -1,4 +1,7 @@
-#django restframework test  
+#django restframework test
+Qiitaの
+Django REST Frameworkを使って爆速でAPIを実装する
+http://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8  
 
 1.djangorestframeworkのテスト  
 2.virtualenv(gitdir内にいれてしまう。分けたほうがいい）  
@@ -19,3 +22,5 @@ softreset
 
 git branch -f をgitkrakenでどうやるか。
 →cannot create the ref because it already exists
+
+API動作確認まで。
