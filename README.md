@@ -18,4 +18,4 @@ softreset
 さらに変更してみた
 
 git branch -f をgitkrakenでどうやるか。
-
+→cannot create the ref because it already exists
